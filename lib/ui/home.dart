@@ -66,7 +66,7 @@ class ScaffoldExample extends StatelessWidget {
   const ScaffoldExample({Key? key}) : super(key: key);
 
   _tapButton() {
-    debugPrint('email tapped!');
+
   }
 
   @override
