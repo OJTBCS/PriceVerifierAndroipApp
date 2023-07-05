@@ -32,7 +32,7 @@ class BizCard extends StatelessWidget {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          const Text ('Rengiel Frias'),
+          const Text ('Rengiel Frias Pogi'),
           const Text('Studying Flutter '),
           Row(
             mainAxisAlignment: MainAxisAlignment.center,
